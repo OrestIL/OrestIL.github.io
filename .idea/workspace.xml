@@ -1,35 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b3ede54-6863-4524-824f-db640cebe8c2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/img/busses/bova_magiq.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/bova_magiq_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/bova_magiq_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/setra_417.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/setra_417_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/setra_417_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/van_hool_astron.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/van_hool_astron_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/vw_crafter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/vw_crafter_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/vw_crafter_3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/agency.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/agency.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/mercedes-benz_tourismo-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/mercedes-benz_tourismo-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/mercedes-benz_tourismo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/mercedes-benz_tourismo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="2b3ede54-6863-4524-824f-db640cebe8c2" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -42,23 +21,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1etyWVWzupKIlS8eL7zLLAPj7zw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -77,23 +52,23 @@
       <workItem from="1530970503926" duration="7692000" />
       <workItem from="1595155217612" duration="1932000" />
       <workItem from="1595366147478" duration="1538000" />
+      <workItem from="1625526435043" duration="384000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
