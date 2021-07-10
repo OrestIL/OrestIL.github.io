@@ -1,72 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b3ede54-6863-4524-824f-db640cebe8c2" name="Default" comment="Improve CNAME.">
-      <change afterPath="$PROJECT_DIR$/img/busses/setra_315_hd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/setra_315_hd_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/setra_315_hd_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/setra_317_hdh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/setra_317_hdh_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/setra_317_hdh_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/setra_317_hdh_green.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/setra_317_hdh_green_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/setra_317_hdh_green_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/van_hool_astromega.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/van_hool_astromega_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/van_hool_astromega_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/van_hool_astromega_grey.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/van_hool_astromega_grey_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/van_hool_astromega_grey_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slider1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slider2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slider3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slider4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/bova_magiq.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/bova_magiq_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/bova_magiq_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/eos_200.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/eos_200_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/eos_200_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/man_lions_coach.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/man_lions_coach_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/man_lions_coach_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/mercedes-benz_tourismo-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/mercedes-benz_tourismo-2_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/mercedes-benz_tourismo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/mercedes-benz_tourismo_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/mercedes-benz_tourismo_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/setra_417.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/setra_417_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/setra_417_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/setra_417_hdh.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/setra_417_hdh_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/setra_417_hdh_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_astron.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_astron_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/vw_crafter.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/vw_crafter_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/vw_crafter_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/lods.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/map.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/slider1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/slider2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/slider3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/slider4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/варшава.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/краків.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/лодзь.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/познань.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/щецін.jpg" beforeDir="false" />
+    <list default="true" id="2b3ede54-6863-4524-824f-db640cebe8c2" name="Default" comment="Add new busses. Update social networks links. Change map. Change text in about us section. Add new image into it. Change favicon and slider images. Change sop trans logo. Update map with new routes. Update table with routes.">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +66,7 @@
       <workItem from="1595155217612" duration="1932000" />
       <workItem from="1595366147478" duration="1538000" />
       <workItem from="1625526435043" duration="1367000" />
-      <workItem from="1625607753733" duration="7428000" />
+      <workItem from="1625607753733" duration="8157000" />
     </task>
     <task id="LOCAL-00001" summary="Improve CNAME.">
       <created>1625526952356</created>
@@ -147,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625527085600</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add new busses. Update social networks links. Change map. Change text in about us section. Add new image into it. Change favicon and slider images. Change sop trans logo. Update map with new routes. Update table with routes.">
+      <created>1625914274130</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625914274130</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Improve CNAME." />
-    <option name="LAST_COMMIT_MESSAGE" value="Improve CNAME." />
+    <MESSAGE value="Add new busses. Update social networks links. Change map. Change text in about us section. Add new image into it. Change favicon and slider images. Change sop trans logo. Update map with new routes. Update table with routes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new busses. Update social networks links. Change map. Change text in about us section. Add new image into it. Change favicon and slider images. Change sop trans logo. Update map with new routes. Update table with routes." />
   </component>
 </project>
