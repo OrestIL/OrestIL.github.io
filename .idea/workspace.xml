@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b3ede54-6863-4524-824f-db640cebe8c2" name="Default" comment="Add new red buss. Change 3 busses pictures. Change logo.">
-      <change afterPath="$PROJECT_DIR$/img/busses/neoplan_n1116_red.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/neoplan_n1116_red_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/neoplan_n1116_red_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/neoplan_n1116.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/neoplan_n1116.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/neoplan_n1116_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/neoplan_n1116_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_acron.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/van_hool_acron.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_acron_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/van_hool_acron_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_atlanto.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/van_hool_atlanto.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_atlanto_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/van_hool_atlanto_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="2b3ede54-6863-4524-824f-db640cebe8c2" name="Default" comment="Add new red buss. Change 3 busses pictures. Add new logo and replace old one with a new one." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,9 +46,9 @@
       <recent name="$PROJECT_DIR$/img/busses" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/img/busses" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -89,6 +75,7 @@
       <workItem from="1626096290274" duration="453000" />
       <workItem from="1644136178275" duration="1271000" />
       <workItem from="1653326778341" duration="2791000" />
+      <workItem from="1653337273934" duration="548000" />
     </task>
     <task id="LOCAL-00001" summary="Improve CNAME.">
       <created>1625526952356</created>
@@ -132,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644137114070</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add new red buss. Change 3 busses pictures. Add new logo and replace old one with a new one.">
+      <created>1653337442752</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1653337442752</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +151,7 @@
     <MESSAGE value="Change meta data." />
     <MESSAGE value="Add 1 buss. Add 1 city." />
     <MESSAGE value="Add new red buss. Change 3 busses pictures. Change logo." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new red buss. Change 3 busses pictures. Change logo." />
+    <MESSAGE value="Add new red buss. Change 3 busses pictures. Add new logo and replace old one with a new one." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new red buss. Change 3 busses pictures. Add new logo and replace old one with a new one." />
   </component>
 </project>
