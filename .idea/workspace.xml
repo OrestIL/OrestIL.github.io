@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b3ede54-6863-4524-824f-db640cebe8c2" name="Default" comment="Change slider images positions. Change instagram url." />
+    <list default="true" id="2b3ede54-6863-4524-824f-db640cebe8c2" name="Default" comment="Add new red buss. Change 3 busses pictures. Change logo.">
+      <change afterPath="$PROJECT_DIR$/img/busses/neoplan_n1116_red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/busses/neoplan_n1116_red_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/busses/neoplan_n1116_red_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/busses/neoplan_n1116.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/neoplan_n1116.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/busses/neoplan_n1116_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/neoplan_n1116_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_acron.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/van_hool_acron.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_acron_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/van_hool_acron_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_atlanto.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/van_hool_atlanto.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_atlanto_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/van_hool_atlanto_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,16 +44,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/busses" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img/busses" />
       <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/img/busses" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/busses" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img" />
     </key>
@@ -65,6 +86,9 @@
       <workItem from="1595366147478" duration="1538000" />
       <workItem from="1625526435043" duration="1367000" />
       <workItem from="1625607753733" duration="8816000" />
+      <workItem from="1626096290274" duration="453000" />
+      <workItem from="1644136178275" duration="1271000" />
+      <workItem from="1653326778341" duration="2791000" />
     </task>
     <task id="LOCAL-00001" summary="Improve CNAME.">
       <created>1625526952356</created>
@@ -94,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625916069580</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Change meta data.">
+      <created>1626096415904</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626096415904</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add 1 buss. Add 1 city.">
+      <created>1644137114070</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644137114070</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +154,9 @@
     <MESSAGE value="Improve CNAME." />
     <MESSAGE value="Add new busses. Update social networks links. Change map. Change text in about us section. Add new image into it. Change favicon and slider images. Change sop trans logo. Update map with new routes. Update table with routes." />
     <MESSAGE value="Change slider images positions. Change instagram url." />
-    <option name="LAST_COMMIT_MESSAGE" value="Change slider images positions. Change instagram url." />
+    <MESSAGE value="Change meta data." />
+    <MESSAGE value="Add 1 buss. Add 1 city." />
+    <MESSAGE value="Add new red buss. Change 3 busses pictures. Change logo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new red buss. Change 3 busses pictures. Change logo." />
   </component>
 </project>
