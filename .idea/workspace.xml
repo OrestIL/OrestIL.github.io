@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2b3ede54-6863-4524-824f-db640cebe8c2" name="Default" comment="Fix red bus picture.">
+      <change afterPath="$PROJECT_DIR$/img/busses/man_lions_coach.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/busses/man_lions_coach_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/busses/man_lions_coach_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/busses/setra_317_hdh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/busses/setra_317_hdh_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/busses/setra_317_hdh_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/busses/setra_317_hdh_green.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/busses/setra_317_hdh_green_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/busses/setra_317_hdh_green_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_acron.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/van_hool_acron.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_acron_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/van_hool_acron_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_acron_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/van_hool_acron_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_astromega.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_astromega_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_astromega_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_atlanto_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/van_hool_atlanto_3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,25 +44,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1etyWVWzupKIlS8eL7zLLAPj7zw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/orestkutiuk/Projects/soptrans/OrestIL.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
@@ -53,6 +75,16 @@
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OrestIL.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -81,6 +113,7 @@
       <workItem from="1653337273934" duration="2416000" />
       <workItem from="1653462597914" duration="1064000" />
       <workItem from="1654810312503" duration="462000" />
+      <workItem from="1685742126040" duration="3265000" />
     </task>
     <task id="LOCAL-00001" summary="Improve CNAME.">
       <created>1625526952356</created>
@@ -161,7 +194,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Improve CNAME." />
