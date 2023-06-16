@@ -4,25 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b3ede54-6863-4524-824f-db640cebe8c2" name="Default" comment="Fix red bus picture.">
-      <change afterPath="$PROJECT_DIR$/img/busses/man_lions_coach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/man_lions_coach_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/man_lions_coach_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/setra_317_hdh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/setra_317_hdh_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/busses/setra_317_hdh_3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="2b3ede54-6863-4524-824f-db640cebe8c2" name="Default" comment="Updated busses: add new bus, delete old one, change some pictures. Add 2 new route tables and extend map with the new routes.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/setra_317_hdh_green.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/setra_317_hdh_green_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/setra_317_hdh_green_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_acron.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/van_hool_acron.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_acron_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/van_hool_acron_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_acron_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/van_hool_acron_3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_astromega.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_astromega_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_astromega_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/busses/van_hool_atlanto_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/busses/van_hool_atlanto_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/agency.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/agency.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,19 +37,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/orestkutiuk/Projects/soptrans/OrestIL.github.io",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/orestkutiuk/Projects/soptrans/OrestIL.github.io&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
@@ -113,7 +98,9 @@
       <workItem from="1653337273934" duration="2416000" />
       <workItem from="1653462597914" duration="1064000" />
       <workItem from="1654810312503" duration="462000" />
-      <workItem from="1685742126040" duration="3265000" />
+      <workItem from="1685742126040" duration="5787000" />
+      <workItem from="1686043709555" duration="803000" />
+      <workItem from="1686890899091" duration="2501000" />
     </task>
     <task id="LOCAL-00001" summary="Improve CNAME.">
       <created>1625526952356</created>
@@ -178,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653338442724</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Updated busses: add new bus, delete old one, change some pictures. Add 2 new route tables and extend map with the new routes.">
+      <created>1685745901331</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685745901331</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +199,7 @@
     <MESSAGE value="Add new red buss. Change 3 busses pictures. Add new logo and replace old one with a new one." />
     <MESSAGE value="Change pictures for red bus." />
     <MESSAGE value="Fix red bus picture." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix red bus picture." />
+    <MESSAGE value="Updated busses: add new bus, delete old one, change some pictures. Add 2 new route tables and extend map with the new routes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated busses: add new bus, delete old one, change some pictures. Add 2 new route tables and extend map with the new routes." />
   </component>
 </project>
