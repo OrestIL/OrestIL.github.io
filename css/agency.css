@@ -136,7 +136,7 @@ body {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/main-pic.jpg");
+  background-image: url("../img/main-pic.webp");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -640,4 +640,20 @@ ol.carousel-indicators li {
 }
 .justify-center {
   justify-content: center;
+}
+
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+  display: flex!important;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel-item .route {
+  font-size: 30px;
+  color: #fed136;
+  font-style: italic;
+  text-transform: uppercase;
 }
